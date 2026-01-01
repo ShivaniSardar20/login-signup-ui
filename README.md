@@ -5,6 +5,9 @@ A simple, responsive login and signup form built with HTML, CSS, and JavaScript.
 ## Demo
 
 [View Demo](index.html)
+## Live Demo
+
+[View Live Demo](https://your-username.github.io/login-signup-ui/) <!-- Replace with your actual hosted link -->
 
 ## Features
 
@@ -66,3 +69,4 @@ Feel free to fork the repository and submit pull requests for improvements or bu
 ## License
 
 This project is open-source and available under the MIT License.
+
